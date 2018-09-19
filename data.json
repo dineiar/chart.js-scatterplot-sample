@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2018-09-19",
+        "devices": [
+            {
+                "name": "Device 1",
+                "x": 1,
+                "y": 2
+            },
+            {
+                "name": "Device 2",
+                "x": 4,
+                "y": 2
+            },
+            {
+                "name": "Device 3",
+                "x": 1,
+                "y": 5
+            }
+        ]
+    },
+    {
+        "date": "2018-09-20",
+        "devices": [
+            {
+                "name": "Device 1",
+                "x": 2,
+                "y": 2
+            },
+            {
+                "name": "Device 2",
+                "x": 3,
+                "y": 2
+            },
+            {
+                "name": "Device 3",
+                "x": 1,
+                "y": 4
+            }
+        ]
+    },
+    {
+        "date": "2018-09-21",
+        "devices": [
+            {
+                "name": "Device 1",
+                "x": 3,
+                "y": 2
+            },
+            {
+                "name": "Device 2",
+                "x": 1,
+                "y": 2
+            },
+            {
+                "name": "Device 3",
+                "x": 2,
+                "y": 4
+            }
+        ]
+    }
+]
